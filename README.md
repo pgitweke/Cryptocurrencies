@@ -60,8 +60,8 @@ Below is a snippet of the elbow curve shows K = 4 as the initial point:
  
  MinMaxScaler().fit_transform method to scale the "TotalCoinSupply" and "TotalCoinsMined" columns:
 
-![ Clustering Cryptocurrencies Using K-means]( Clustering_cryptocurrencies .png)
+![Clustering Cryptocurrencies Using K-means](Clustering_cryptocurrencies .png)
 
 ### 3D scatter plot using the Plotly Express scatter_3d():
 
-![3D scatter plot]( 3D_scatter_plot)
+![3D scatter plot](3D_scatter_plot .png)
