@@ -14,11 +14,6 @@ Deliverable Objectives
 
 - Objective 4: Visualizing Cryptocurrencies Results
 
-
-# Results:
-
-There were five hundred and thirty-two (532) tradable cryptocurrencies.
-
 ## Resources
 
 - Data Source: crypto_data.csv
@@ -34,6 +29,10 @@ There were five hundred and thirty-two (532) tradable cryptocurrencies.
 - Unsupervised Machine Learning and Cryptocurrencies
 
 - Using Unsupervised Learning to Discover Unknown Patterns
+
+# Results:
+
+There were five hundred and thirty-two (532) tradable cryptocurrencies.
 
 ## Objective 1: Preprocessing the Data for PCA
 
